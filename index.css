@@ -15,7 +15,7 @@
 
 body {
     margin: 0;
-    background: #111;
+    background-image: url('https://64.media.tumblr.com/464c1eeffff22443acee7fc2776cc001/tumblr_olw5qbaSFs1s1bwvio6_500.gif');
     display: flex;
     flex-direction: column;
     min-height: 100vh;
