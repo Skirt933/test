@@ -23,9 +23,10 @@ body {
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
-
-.fa-magnifying-glass {
-    color: white;
+h1,h2,h3,h4 {
+font-color: white;
+text-align: center;
+.fa-magnifying-glass;
 }
 
 .logo-wrapper {
@@ -58,6 +59,7 @@ footer {
     display: flex;
     justify-content: left;
     align-items: center;
+    font-color: white;
 }
 
 footer a,
