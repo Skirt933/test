@@ -112,3 +112,9 @@ form input:focus {
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
+
+.searchbar {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
